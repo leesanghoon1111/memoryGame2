@@ -13,7 +13,7 @@ namespace GAME14
     public partial class GameWindow : Form
     
     {
-        
+        ////브랜츠 바로 나눠서 올리기
 
         /// <summary>
         /// 첫번쨰 푸시 되는지안되는지
