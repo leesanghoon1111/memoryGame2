@@ -15,7 +15,9 @@ namespace GAME14
     {
         
 
-            
+        /// <summary>
+        /// 첫번쨰 푸시 되는지안되는지
+        /// </summary>
         private bool isClickBlocked = false;//카드들을 터치 막음
 
         Random Location = new Random();
